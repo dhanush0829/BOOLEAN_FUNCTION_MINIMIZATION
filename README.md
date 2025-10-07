@@ -49,4 +49,11 @@ Developed by: RegisterNumber:*/
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+<img width="1920" height="1080" alt="boolean  exp2" src="https://github.com/user-attachments/assets/f87db0a1-13e0-4f0a-8544-5089410bfe42" />
+<img width="1920" height="1080" alt="exp2 timing diagram" src="https://github.com/user-attachments/assets/71d63a20-572c-4120-918e-eb2ff97bb508" />
+<img width="1920" height="1080" alt="exp22" src="https://github.com/user-attachments/assets/6b3cd787-48b5-4330-b754-f026072bc0d2" />
+<img width="1920" height="1080" alt="timing22" src="https://github.com/user-attachments/assets/26f852b7-6ec2-4489-a1ca-337e2373acb5" />
+
+
+
 
